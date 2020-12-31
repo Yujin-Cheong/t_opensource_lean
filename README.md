@@ -1,5 +1,5 @@
 # t_opensource_lean
-GitHyub를 시작합니다. '20.12.31
+GitHub를 시작합니다. '20.12.31
 
 목록
 row 1
